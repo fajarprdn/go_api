@@ -1,0 +1,5 @@
+productapp:
+  name: "Product App"
+  api:
+    url: "localhost:3000"
+    token: "123"
